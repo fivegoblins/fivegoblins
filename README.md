@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi 👋 I'm Alexandra Swartz, a software developer 💻 in Philadelphia 🔔
+### Here are some projects I've been working on. 
+### Some were completed during my time as a Java ☕️ student at Tech Elevator.
+### Others are side projects I like to work on in my spare time. 
+### Enjoy! 😄
 <!--
 **fivegoblins/fivegoblins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
